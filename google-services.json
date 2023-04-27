@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705712167993",
+    "project_id": "chatsnappy-12e1e",
+    "storage_bucket": "chatsnappy-12e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705712167993:android:91c6f03f6abd6ed78e81e8",
+        "android_client_info": {
+          "package_name": "com.veexi.snappyChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705712167993-47lmpipjkjm35fjojisldtg7bikp184h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHK0xdo8M8EPOrz2qeSz6M4Lk3WFyE4Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705712167993-47lmpipjkjm35fjojisldtg7bikp184h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
